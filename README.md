@@ -1,6 +1,5 @@
 # John Jimah (jrjimah)
 # Datacamp-certificates-jrjimah
-datacamp-certificates-jrjimah created by GitHub Classroom
 
 I completed the following two DataCamp skill tracks:
 1. Python Programming
